@@ -45,13 +45,13 @@ Here are some of the **exciting projects** I've worked on:
 🚀 **Role:** Backend Engineer  
 🔹 Built a **custom UNIX shell** in **C**, supporting command execution and scripting.  
 🔹 Gained in-depth knowledge of **process management and system calls**.  
-🔹 [🔗 View Project](https://github.com/Genialqua/simple_shell)  
+ 
 
 ### ✈️ **Airbnb Clone** (Full-Stack Web Application)  
 🚀 **Role:** Full-Stack Software Engineer  
 🔹 Developed a **full-stack clone of Airbnb** with property listings, booking, and user authentication.  
 🔹 Built a **REST API using Flask** and integrated a frontend with **React.js**.  
-🔹 [🔗 View Project](https://github.com/Genialqua/AirBnB_clone_v4)  
+  
 
 ---
 
