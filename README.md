@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 **About Me**
+##  **About Me**
 I started my journey in **Software Engineering** through the **ALX Software Engineering Program**, where I built a strong foundation in **backend and frontend development**.  
 I am deeply passionate about **Artificial Intelligence**, inspired by its potential to revolutionize industries.  
 
